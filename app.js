@@ -16,5 +16,5 @@ app.get ("/about",function(req,res){
 app.listen(3000,function()
 {
 
-    console.log("server is runnining in port 3000")
+    console.log("server is runnining in port 3001")
 })
