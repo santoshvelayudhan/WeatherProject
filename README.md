@@ -1,2 +1,2 @@
 # WeatherProject
-integrate weather API in node.
+integrate weather API in node.js
